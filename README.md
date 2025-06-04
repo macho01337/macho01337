@@ -8,7 +8,7 @@ I'm a passionate developer currently learning full-stack development using the *
   <a href="https://discord.com/users/537362344779579433" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/tvoj_twitter_username" target="_blank">
+  <a href="https://twitter.com/macho13370" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
