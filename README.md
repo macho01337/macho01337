@@ -2,7 +2,7 @@
 
 
 
-I'm a passionate developer currently learning full-stack development using the **PERN stack** (PostgreSQL, Express, React, Node.js).
+I'm a passionate developer currently learning front-end development
 
 <p align="center">
   <a href="https://discord.com/users/537362344779579433" target="_blank">
@@ -21,15 +21,11 @@ I'm a passionate developer currently learning full-stack development using the *
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
 
 🌱 **Currently learning:**
-- React Router, Context API, Firebase
-- Express.js & Node.js for back-end
-- PostgreSQL basics
+- React Router, Context API, Tailwind
 - How to build full-stack apps
 
 
